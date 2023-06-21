@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    color: #333;
+}
+
+#word {
+    font-size: 24px;
+    margin: 20px;
+}
+
+#guesses {
+    margin-bottom: 20px;
+}
+
+#hangman {
+    width: 200px;
+    height: 200px;
+    background: url('hangman.png') no-repeat center center;
+    background-size: contain;
+    margin: 20px auto;
+}
+
+#message {
+    font-size: 20px;
+    color: #333;
+}
